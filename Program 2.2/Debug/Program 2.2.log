@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ACER\source\repos\Program 2.2\Program 2.2\Source.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ACER\source\repos\Program 2.2\Program 2.2\Source.cpp(10,7): warning C4101: b: неиспользованная локальная переменная
+  Program 2.2.vcxproj -> C:\Users\ACER\source\repos\Program 2.2\Debug\Program 2.2.exe
